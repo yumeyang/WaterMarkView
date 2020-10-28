@@ -1,0 +1,3 @@
+include ':lib_view_watermark'
+include ':app'
+rootProject.name = "WaterMarkView"
